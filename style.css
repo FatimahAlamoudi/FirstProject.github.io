@@ -1,0 +1,24 @@
+
+#intro
+{
+	 background-image: url('img/pic10.jpg');
+      height: 400px;
+}
+
+@media(min-width: 576 px)
+{
+	#intro{
+		height:600px;
+	}
+}
+
+#about
+{
+	background-color: black;
+}
+
+#book
+{
+	 background-image: url('img/pic5.jpg');
+      height: 300px;
+}
